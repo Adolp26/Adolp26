@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, i'm Adolphe.
 
 <!--
 **Adolp26/Adolp26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Adolphe's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolp26)](https://github.com/anuraghazra/github-readme-stats)
+![Adolphe's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
