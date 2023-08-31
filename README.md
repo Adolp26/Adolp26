@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adolphe Ribeiro</h1>
 <h3 align="center">A student of systems analysis and development, entering the world of programming, addicted to games, coffee and music.</h3>
 
-- 🌱 I’m currently learning **Security in backend**
 
-- 📫 How to reach me **adolpheribeiro7@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
