@@ -10,6 +10,7 @@
 <a href="https://linkedin.com/in/adolphe-ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adolphe-ribeiro" height="30" width="40" /></a>
 </p>
 
+<br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adolp26&show_icons=true&locale=en&layout=compact" alt="adolp26" /></p>
 
