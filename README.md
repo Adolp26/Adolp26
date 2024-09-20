@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adolphe Ribeiro</h1>
-<h3 align="center">Backend developer with experience in a variety of technologies, including PHP, Node.js, MySQL, PostgreSQL and Docker. I specialize in solving problems and optimizing scalable systems, directly contributing to improving performance and efficiency. Constantly learning, I seek to face new challenges in agile and dynamic environments, using modern development practices and efficient collaboration to deliver high-quality solutions.</h3>
+<h5 align="center">Backend developer with experience in a variety of technologies, including PHP, Node.js, MySQL, PostgreSQL and Docker. I specialize in solving problems and optimizing scalable systems, directly contributing to improving performance and efficiency. Constantly learning, I seek to face new challenges in agile and dynamic environments, using modern development practices and efficient collaboration to deliver high-quality solutions.</h5>
 
 <hr>
 
@@ -19,6 +19,9 @@
 
 <br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adolp26&show_icons=true&locale=en&layout=compact" alt="adolp26" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adolp26&show_icons=true&locale=en" alt="adolp26" /></p>
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adolp26&show_icons=true&locale=en&layout=compact" alt="adolp26" /></p>
