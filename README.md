@@ -1,4 +1,4 @@
-<h5 align="center">Backend developer with experience in a variety of technologies, including PHP, Node.js, MySQL, PostgreSQL and Docker. I specialize in solving problems and optimizing scalable systems, directly contributing to improving performance and efficiency. Constantly learning, I seek to face new challenges in agile and dynamic environments, using modern development practices and efficient collaboration to deliver high-quality solutions.</h5>
+<h5 align="center">Backend developer with experience in a variety of technologies. I specialize in solving problems and optimizing scalable systems, directly contributing to improving performance and efficiency. Constantly learning, I seek to face new challenges in agile and dynamic environments, using modern development practices and efficient collaboration to deliver high-quality solutions.</h5>
 
 <hr>
 
