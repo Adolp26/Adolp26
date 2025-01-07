@@ -15,12 +15,3 @@
 </p>
 
 <hr>
-
-<br><br><br>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adolp26&show_icons=true&locale=en" alt="adolp26" /></p>
-
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adolp26&show_icons=true&locale=en&layout=compact" alt="adolp26" /></p>
