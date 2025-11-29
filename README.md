@@ -156,7 +156,7 @@ const meuGitHub = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adolp26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adolp26&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 
