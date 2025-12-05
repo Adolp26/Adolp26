@@ -24,8 +24,5 @@ $repos = [
     'utilidades' => 'Código reutilizável que resolve problemas reais'
 ];
 
-// Se funciona bem e economiza tempo, vira repositório público
-Contato:
-📧 adolpheribeiro7@gmail.com
-💼 LinkedIn
+
 
