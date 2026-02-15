@@ -1,6 +1,5 @@
 # Adolphe
 
-Desenvolvedor back-end. Construo algumas ferramentas quando possível.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Automação+%26+Performance;Construindo+Ferramentas+Úteis" alt="Typing SVG" />
