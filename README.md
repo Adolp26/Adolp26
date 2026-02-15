@@ -10,15 +10,7 @@ const stack = {
   databases: ['PostgreSQL', 'Oracle', 'PL/SQL'],
   devops: ['Docker', 'GitLab CI', 'AWS'],
   frontend: ['React', 'Bootstrap', 'Jquery'],
-  foco: 'Performance, automação e código reutilizável'
 };
-O Que Tem Por Aqui
-<?php
-$repos = [
-    'ferramentas' => 'Scripts e automações que uso no dia a dia',
-    'experimentos' => 'POCs e testes com tecnologias novas',
-    'utilidades' => 'Código reutilizável que resolve problemas reais'
-];
 ```
 
 
