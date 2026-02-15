@@ -8,10 +8,10 @@
 
 ```javascript
 const stack = {
-  backend: ['PHP', 'Node.js', 'Python'],
+  backend: ['PHP', 'Javascript', 'Golang'],
   databases: ['PostgreSQL', 'Oracle', 'PL/SQL'],
   devops: ['Docker', 'GitLab CI', 'AWS'],
-  frontend: ['React', 'Bootstrap'], // quando necessário
+  frontend: ['React', 'Bootstrap', 'Jquery'],
   foco: 'Performance, automação e código reutilizável'
 };
 O Que Tem Por Aqui
