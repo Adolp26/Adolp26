@@ -1,4 +1,3 @@
-# Adolphe
 
 
 <p align="center">
